@@ -1,0 +1,80 @@
+@font-face {
+    font-family: Alone;
+    src: url(Study\ Alone.ttf);
+}
+
+@font-face {
+    font-family: Soccer;
+    src: url(typewcond_demi.ttf);
+}
+
+header{
+    background-color: deepskyblue;
+    text-align: center;
+    font-family: Alone;
+}
+
+h1{
+    text-align: center;
+    font-family: Soccer;
+    background-color: deepskyblue;
+}
+
+p{
+    font-family: Soccer;
+}
+
+br{
+    font-family: Soccer;
+
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid deepskyblue;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+tr:hover {
+    background-color: deepskyblue;
+}
+
+.FotoGremio{
+    padding-left: 410px;
+
+}
+
+.FotoGremio2{
+    padding-left: 300px;
+    margin-top: 30px;
+}
+
+.FotoGremio3{
+    padding-left: 470px;
+    margin-top: 30px;
+}
+
+.FotoGremio4{
+    padding-left: 20px;
+    margin-top: 20px;
+}
+
+footer{
+    background-color: deepskyblue;
+    text-align: center;
+}
